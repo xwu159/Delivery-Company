@@ -1,0 +1,1 @@
+Weekly scrum reports should be stored in the ScrumReports directory at the end of every class. You should change the name of each scrum report to have the milestone number in the name tomake it easy to identify.
